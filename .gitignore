@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+reports/
+*.raw
+*.dmp
+*.vmem
+*.mem
+*.lime
+*.img
+*.aff4
